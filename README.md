@@ -92,5 +92,4 @@ Berikut adalah komponen utama yang digunakan dalam aplikasi ini:
 
 ---
 
-## 📂 Struktur Proyek
 
